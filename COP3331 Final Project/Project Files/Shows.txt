@@ -1,0 +1,89 @@
+Breaking Bad	2008	9.5	Netflix	Drama	1
+Stranger Things	2016	8.8	Netflix	Sci-fi	1
+Money Heist	2017	8.5	Netflix	Drama	1
+Sherlock	2010	9.1	Netflix	Crime	1.5
+Better Call Saul	2015	8.7	Netflix	Drama	1
+The Walking Dead	2010	8.2	Netflix	Horror	1
+The Office	2005	8.9	Netflix	Comedy	0.5
+Black Mirror	2011	8.8	Netflix	Sci-fi	1
+Attack on Titan	2013	8.8	Netflix + Hulu	Anime	0.5
+Supernatural	2005	8.4	Netflix	Drama	1
+Ozark	2017	8.4	Netflix	Crime	1
+Dark	2017	8.7	Netflix	Sci-fi	1
+Narcos	2015	8.8	Netflix	Crime	1
+Dexter	2006	8.6	Netflix	Crime	1
+The Witcher	2019	8.3	Netflix	Action	1
+Mindhunter	2017	8.6	Netflix	Crime	1
+Daredevil	2015	8.6	Netflix	Action	1
+Parks and Recreation	2009	8.6	Netflix + Hulu	Comedy	0.5
+Outlander	2014	8.4	Netflix	Drama	1
+One-Punch Man	2015	8.8	Netflix + Hulu	Anime	0.5
+House of Cards	2013	8.8	Netflix	Drama	1
+Grey's Anatomy	2005	7.6	Netflix + Hulu	Drama	1
+Shameless	2011	8.6	Netflix	Comedy	1
+The Haunting of Hill House	2018	8.7	Netflix	Horror	1
+Lucifer	2016	8.2	Netflix	Comedy	1
+The Crown	2016	8.7	Netflix	Drama	1
+Orange is the New Black	2013	8.1	Netflix	Comedy	1
+Tiger King: Murder, Mayhem, and Madness	2020	8.0	Netflix	Crime	1
+The 100	2014	7.7	Netflix	Action	1
+The Vampire Diaries	2009	7.7	Netflix	Drama	1
+How to Get Away with Murder	2014	8.1	Netflix + Hulu	Crime	1
+Altered Carbon	2018	8.1	Netflix	Action	1
+Arrow	2012	7.6	Netflix	Action	1
+Agents of S.H.I.E.L.D	2013	7.5	Netflix + Hulu	Action	1
+YOU	2018	7.8	Netflix	Drama	1
+BoJack Horseman	2014	8.7	Netflix	Anime	0.5
+Mad Men	2007	8.6	Netflix	Drama	1
+The Blacklist	2013	8.0	Netflix	Crime	1
+Elite	2018	7.6	Netflix	Drama	1
+Fullmetal Alchemist: Brotherhood	2009	9.1	Netflix + Hulu	Anime	0.5
+Twin Peaks	1990	8.8	Netflix + Hulu	Drama	1
+American Horror Story	2011	8.1	Netflix + Hulu	Horror	1
+Archer	2009	8.6	Hulu	Action	0.5
+Arrested Development	2003	8.7	Netflix + Hulu	Comedy	0.5
+Bob's Burgers	2011	8.1	Hulu	Comedy	0.5
+Brooklyn Nine-Nine	2013	8.4	Hulu	Comedy	0.5
+Castle Rock	2018	7.6	Hulu	Sci-fi	1
+Family Guy	1999	8.1	Hulu	Comedy	0.5
+Fururama	1999	8.4	Hulu	Comedy	0.5
+Golden Girls	1985	7.9	Hulu	Comedy	0.5
+The Good Place	2016	8.2	Netflix + Hulu	Comedy	0.5
+The Good Wife	2009	8.3	Hulu	Drama	1
+The Handmaid's Tale	2017	8.5	Hulu	Drama	1
+How I Met Your Mother	2005	8.3	Hulu	Comedy	0.5
+Killing Eve	2018	8.3	Hulu	Drama	1	
+King of the Hill	1997	7.3	Comedy	0.5
+Legion	2017	8.3	Hulu	Action	1
+Lost	2004	8.3	Hulu	Drama	1
+Malcolm in the Middle	2000	8.0	Hulu	Comedy	0.5
+Rick and Morty	2013	9.2	Hulu	Comedy	0.5
+Seinfeld	1989	8.8	Hulu	Comedy	0.5
+Scrubs	2001	8.3	Hulu	Comedy	0.5
+The Simpsons	1989	8.7	Hulu	Comedy	0.5
+South Park	1997	8,7	Hulu	Comedy	0.5
+The Twilight Zone	1959	9	Netflix + Hulu	Sci-fi	0.5	
+Catch-22	2019	7.8	Hulu	Action	1
+Atlanta	2016	8.6	Hulu	Drama	0.5
+It's Always Sunny in Philadelphia	2005	8.8	Hulu	Comedy	0.5
+Adventure Time	2010	8.6	Hulu	Anime	0.5
+Vikings	2013	8.6	Hulu	Drama	1
+Buffy the Vampire Slayer	1997	8.2	Hulu	Drama	1		
+Cowboy Bepop	1998	8.9	Hulu	Anime	0.5
+Sons of Anarchy	2008	8.6	Hulu	Drama	1
+The X-Files	1993	8.6	Hulu	Horror	1	
+Survivor	2000	7.1	Hulu	Drama	1
+Catfish	2012	7.1	Hulu	Drama	1 
+Dragonball	1986	8.5	Hulu	Anime	0.5
+Naruto Shippuden	2007	8.6	Hulu	Anime	0.5
+My Hero Academia	2016	8.5	Hulu	Anime	0.5
+Preacher	2016	8.0	Hulu	Action	1
+Chicago P.D.	2013	8.1	Hulu	Crime	1
+Shut Eye	2016	7.4	Hulu	Drama	1
+The Act	2019	8.0	Hulu	Crime	1
+Bleach	2004	8.1	Netflix + Hulu	Anime	0.5
+Death Note	2006	9	Netflix + Hulu	Anime	0.5
+October Faction	2020	6.1	Netflix	Horror	1 	
+Scream	2015	7.2	Netflix	Horror	1
+The Mist	2007	7.1	Netflix	Horror	1
+Penny Dreadful	2014	8.2	Netflix + Hulu	Horror	1
